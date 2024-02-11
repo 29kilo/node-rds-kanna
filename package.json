@@ -1,0 +1,27 @@
+{
+  "name": "rds-kanna",
+  "version": "1.0.0",
+  "description": "node-rds-kanna",
+  "main": "index.js",
+  "type":  "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/29kilo/node-rds-kanna.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/29kilo/node-rds-kanna/issues"
+  },
+  "homepage": "https://github.com/29kilo/node-rds-kanna#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "my": "^0.3.3",
+    "mysql": "^2.18.1",
+    "sql": "^0.78.0"
+  }
+}
